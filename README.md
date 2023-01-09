@@ -17,6 +17,9 @@ Creates a skeleton of project (structure of project)
 
 ## project structure
 
+
+```markdown
+
 mini_django_v2 (project-root)
     - venv
     - requirements.txt
@@ -41,7 +44,7 @@ mini_django_v2 (project-root)
                 - app1_landing_page.html
         - migrations (`makemigration` command adds data model changes here)
             - __init__.py
-
+```
 
     
 
